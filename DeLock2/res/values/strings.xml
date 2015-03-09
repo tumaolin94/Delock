@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeLock</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_select_color">SelectColor</string>
+    <string name="title_activity_draw_circle">DrawCircle</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
